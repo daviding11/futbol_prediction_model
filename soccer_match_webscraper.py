@@ -15,7 +15,7 @@ def premier_league_web_scraper(y1, y2, url):
     years = list(range(y2, y1, -1))
     all_matches = []
     for year in years:
-        data = requests.get(standings_url)
+        data = requests.get(url)
         soup = BeautifulSoup(data.text, 'html.parser')
         standings_table = soup.select('table.stats_table')[0]
 
@@ -94,5 +94,7 @@ def convert_to_csv(df):
     match_df.to_csv('prem_team_matches.csv', index=False)
     print('csv created')
 
-print('this is new')
+standings_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
+
+premier_league_web_scraper(2022,2021,standings_url)
 
