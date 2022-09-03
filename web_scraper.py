@@ -65,3 +65,7 @@ laliga_matches = match_scraper(year1,year2,'laliga',"https://fbref.com/en/comps/
 bundesliga_matches = match_scraper(year1,year2,'bundesliga',"https://fbref.com/en/comps/20/Bundesliga-Stats")
 
 prem_matches.web_scraper()
+ligue_1_matches.web_scraper()
+serie_a_matches.web_scraper()
+laliga_matches.web_scraper()
+bundesliga_matches.web_scraper()
