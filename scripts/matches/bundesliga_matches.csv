@@ -1,1 +1,7 @@
 ,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+0,2022-07-29,20:45,DFB-Pokal,Round of 64,Fri,Away,W,3.0,0.0,1860 Munich,,,82.0,15000.0,Marco Reus,4-2-3-1,Benjamin Brand,Match Report,,25,11,,,0,0,2022,Dortmund
+1,2022-08-06,18:30,Bundesliga,Matchweek 1,Sat,Home,W,1.0,0.0,Leverkusen,1.5,1.2,45.0,81365.0,Marco Reus,4-3-3,Felix Brych,Match Report,,14,4,16.0,1.0,0,0,2022,Dortmund
+2,2022-08-12,20:30,Bundesliga,Matchweek 2,Fri,Away,W,3.0,1.0,Freiburg,1.3,1.0,61.0,34700.0,Marco Reus,4-2-3-1,Tobias Welz,Match Report,,13,6,19.7,1.0,0,0,2022,Dortmund
+3,2022-08-20,15:30,Bundesliga,Matchweek 3,Sat,Home,L,2.0,3.0,Werder Bremen,0.6,1.0,49.0,81365.0,Marco Reus,4-2-3-1,Florian Badstübner,Match Report,,6,4,19.7,0.0,0,0,2022,Dortmund
+4,2022-08-27,15:30,Bundesliga,Matchweek 4,Sat,Away,W,1.0,0.0,Hertha BSC,3.0,0.6,63.0,62142.0,Marco Reus,4-2-3-1,Tobias Stieler,Match Report,,23,7,13.6,1.0,0,0,2022,Dortmund
+5,2022-09-02,20:30,Bundesliga,Matchweek 5,Fri,Home,W,1.0,0.0,Hoffenheim,1.9,0.6,49.0,79300.0,Marco Reus,4-2-3-1,Daniel Siebert,Match Report,,15,5,12.9,0.0,0,0,2022,Dortmund

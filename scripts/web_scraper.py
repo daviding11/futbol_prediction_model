@@ -45,13 +45,12 @@ class match_scraper:
                     team_data = matches.merge(shooting[["Date", "Sh", "SoT", "Dist", "FK", "PK", "PKatt"]], on="Date")
                 except ValueError:
                     continue
-                team_data = team_data[team_data["Comp"] == self.league]
-                
                 team_data["Season"] = year
                 team_data["Team"] = team_name
                 all_matches.append(team_data)
                 print(team_name + " success " + f"{year}")
-                time.sleep(1)
+                time.sleep(randint(2, 5))
+                #break
 
         match_df = pd.concat(all_matches)
         match_df.columns = [c.lower() for c in match_df.columns]
@@ -65,7 +64,7 @@ laliga_matches = match_scraper(year1,year2,'laliga',"https://fbref.com/en/comps/
 bundesliga_matches = match_scraper(year1,year2,'bundesliga',"https://fbref.com/en/comps/20/Bundesliga-Stats")
 
 #prem_matches.web_scraper()
-#ligue_1_matches.web_scraper()
+ligue_1_matches.web_scraper()
 #serie_a_matches.web_scraper()
 #laliga_matches.web_scraper()
-bundesliga_matches.web_scraper()
+#bundesliga_matches.web_scraper()

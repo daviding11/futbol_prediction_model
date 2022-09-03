@@ -1,1 +1,105 @@
 ,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+0,2022-07-31,21:00,Trophée des Champions,Trophée des Champions,Sun,Home,W,4.0,0.0,Nantes,,,62.0,28000.0,Marquinhos,3-4-3,Orel Grinfeeld,Match Report,,15.0,8.0,,,1,1,2022,Paris Saint Germain
+1,2022-08-06,21:00,Ligue 1,Matchweek 1,Sat,Away,W,5.0,0.0,Clermont Foot,2.6,0.3,61.0,12203.0,Marquinhos,3-4-3,Jeremy Stinat,Match Report,,18.0,12.0,12.7,1.0,0,0,2022,Paris Saint Germain
+2,2022-08-13,21:00,Ligue 1,Matchweek 2,Sat,Home,W,5.0,2.0,Montpellier,3.5,0.7,58.0,,Marquinhos,3-4-1-2,Willy Delajod,Match Report,,18.0,8.0,17.8,3.0,1,2,2022,Paris Saint Germain
+3,2022-08-21,20:45,Ligue 1,Matchweek 3,Sun,Away,W,7.0,1.0,Lille,3.9,1.7,52.0,,Marquinhos,3-4-3,Clément Turpin,Match Report,,16.0,9.0,11.5,0.0,0,0,2022,Paris Saint Germain
+4,2022-08-28,20:45,Ligue 1,Matchweek 4,Sun,Home,D,1.0,1.0,Monaco,2.5,0.4,67.0,,Marquinhos,3-4-3,Benoît Bastien,Match Report,,17.0,4.0,18.2,0.0,1,1,2022,Paris Saint Germain
+5,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Away,W,3.0,0.0,Toulouse,3.0,0.8,62.0,31700.0,Marquinhos,3-4-3,Hakim Ben El Hadj Salem,Match Report,,21.0,12.0,13.6,2.0,0,0,2022,Paris Saint Germain
+0,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Home,W,3.0,2.0,Brest,3.0,1.3,61.0,37015.0,Seko Fofana,3-4-3,Thomas Léonard,Match Report,,15.0,6.0,12.3,0.0,0,1,2022,Lens
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Away,D,0.0,0.0,Ajaccio,0.9,0.7,64.0,,Seko Fofana,3-4-3,Stéphanie Frappart,Match Report,,12.0,3.0,17.7,2.0,0,0,2022,Lens
+2,2022-08-20,17:00,Ligue 1,Matchweek 3,Sat,Away,W,4.0,1.0,Monaco,2.8,1.2,54.0,,Seko Fofana,3-4-3,Willy Delajod,Match Report,,13.0,5.0,15.5,0.0,1,1,2022,Lens
+3,2022-08-27,21:00,Ligue 1,Matchweek 4,Sat,Home,W,2.0,1.0,Rennes,1.4,1.0,51.0,,Seko Fofana,3-4-3,Jérôme Brisard,Match Report,,17.0,4.0,19.6,0.0,0,0,2022,Lens
+4,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,W,5.0,2.0,Lorient,2.7,1.2,57.0,,Florian Sotoca,3-4-3,Benoît Bastien,Match Report,,17.0,8.0,11.6,0.0,0,0,2022,Lens
+0,2022-08-07,20:45,Ligue 1,Matchweek 1,Sun,Home,W,4.0,1.0,Reims,2.2,1.1,55.0,62738.0,Valentin Rongier,3-4-3,Jérôme Brisard,Match Report,,16.0,6.0,13.4,0.0,0,0,2022,Marseille
+1,2022-08-14,20:45,Ligue 1,Matchweek 2,Sun,Away,D,1.0,1.0,Brest,0.6,2.1,52.0,,Valentin Rongier,3-4-3,Jeremy Stinat,Match Report,,5.0,2.0,12.6,0.0,0,0,2022,Marseille
+2,2022-08-20,21:00,Ligue 1,Matchweek 3,Sat,Home,W,2.0,1.0,Nantes,1.1,1.9,55.0,,Valentin Rongier,3-4-3,Jérémie Pignard,Match Report,,16.0,5.0,16.3,0.0,0,0,2022,Marseille
+3,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Away,W,3.0,0.0,Nice,1.1,0.8,51.0,,Dimitri Payet,3-4-3,François Letexier,Match Report,,13.0,4.0,16.8,0.0,0,0,2022,Marseille
+4,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,W,1.0,0.0,Clermont Foot,2.5,0.1,60.0,,Dimitri Payet,3-4-3,Eric Wattellier,Match Report,,21.0,7.0,16.0,1.0,0,1,2022,Marseille
+0,2022-08-05,21:00,Ligue 1,Matchweek 1,Fri,Home,W,2.0,1.0,Ajaccio,1.5,1.2,67.0,48516.0,Alexandre Lacazette,4-3-3,Benoît Bastien,Match Report,,10.0,5.0,23.8,0.0,1,1,2022,Lyon
+1,2022-08-19,21:00,Ligue 1,Matchweek 3,Fri,Home,W,4.0,1.0,Troyes,3.2,1.0,66.0,,Alexandre Lacazette,4-3-3,Eric Wattellier,Match Report,,16.0,8.0,12.6,0.0,0,0,2022,Lyon
+2,2022-08-28,17:05,Ligue 1,Matchweek 4,Sun,Away,D,1.0,1.0,Reims,0.9,0.5,74.0,,Alexandre Lacazette,4-3-3,Jeremy Stinat,Match Report,,17.0,5.0,19.2,1.0,0,0,2022,Lyon
+3,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Home,W,2.0,1.0,Auxerre,2.8,0.5,62.0,,Alexandre Lacazette,4-3-3,Pierre Gaillouste,Match Report,,20.0,8.0,15.6,0.0,0,0,2022,Lyon
+0,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Home,W,3.0,2.0,Troyes,1.1,1.8,53.0,12003.0,Téji Savanier,4-2-3-1,Pierre Gaillouste,Match Report,,17.0,6.0,20.3,0.0,0,0,2022,Montpellier
+1,2022-08-13,21:00,Ligue 1,Matchweek 2,Sat,Away,L,2.0,5.0,Paris S-G,0.7,3.5,42.0,,Téji Savanier,4-1-4-1,Willy Delajod,Match Report,,7.0,4.0,31.0,0.0,0,0,2022,Montpellier
+2,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Home,L,1.0,2.0,Auxerre,1.1,1.2,64.0,,Téji Savanier,4-1-4-1,Mathieu Vernice,Match Report,,15.0,7.0,17.4,0.0,0,0,2022,Montpellier
+3,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Away,W,7.0,0.0,Brest,2.6,0.3,48.0,,Jordan Ferri,4-2-3-1,Marc Bollengier,Match Report,,14.0,8.0,12.3,0.0,0,0,2022,Montpellier
+4,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Home,W,2.0,0.0,Ajaccio,1.5,1.2,38.0,,Jordan Ferri,4-2-3-1,Bastien Dechepy,Match Report,,9.0,4.0,15.2,1.0,0,0,2022,Montpellier
+0,2022-08-07,17:05,Ligue 1,Matchweek 1,Sun,Home,L,0.0,1.0,Lorient,1.7,0.4,63.0,28177.0,Hamari Traoré,4-3-3,Bastien Dechepy,Match Report,,21.0,5.0,16.4,0.0,0,0,2022,Rennes
+1,2022-08-13,17:00,Ligue 1,Matchweek 2,Sat,Away,D,1.0,1.0,Monaco,2.0,2.3,65.0,,Hamari Traoré,4-3-3,Jérémie Pignard,Match Report,,24.0,8.0,17.4,0.0,0,0,2022,Rennes
+2,2022-08-21,17:05,Ligue 1,Matchweek 3,Sun,Home,W,2.0,1.0,Ajaccio,1.2,1.4,56.0,,Hamari Traoré,4-4-2,Hakim Ben El Hadj Salem,Match Report,,16.0,7.0,16.8,1.0,0,0,2022,Rennes
+3,2022-08-27,21:00,Ligue 1,Matchweek 4,Sat,Away,L,1.0,2.0,Lens,1.0,1.4,49.0,,Hamari Traoré,4-3-3,Jérôme Brisard,Match Report,,12.0,6.0,15.7,0.0,0,0,2022,Rennes
+4,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,W,3.0,1.0,Brest,1.2,0.4,63.0,,Benjamin Bourigeaud,4-3-3,Benoît Millot,Match Report,,16.0,9.0,15.6,0.0,0,0,2022,Rennes
+0,2022-08-07,17:05,Ligue 1,Matchweek 1,Sun,Away,W,1.0,0.0,Rennes,0.4,1.7,37.0,28177.0,Laurent Abergel,4-4-2,Bastien Dechepy,Match Report,,8.0,2.0,23.9,1.0,0,0,2022,Lorient
+1,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Away,D,2.0,2.0,Toulouse,2.7,1.8,49.0,,Laurent Abergel,4-2-3-1,Gustavo Correia,Match Report,,12.0,2.0,19.4,2.0,1,2,2022,Lorient
+2,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Home,W,2.0,1.0,Clermont Foot,3.2,0.8,39.0,,Laurent Abergel,4-2-3-1,Willy Delajod,Match Report,,21.0,8.0,17.3,1.0,1,1,2022,Lorient
+3,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Away,L,2.0,5.0,Lens,1.2,2.7,43.0,,Laurent Abergel,4-3-3,Benoît Bastien,Match Report,,11.0,3.0,17.1,0.0,0,0,2022,Lorient
+0,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Home,W,4.0,1.0,Auxerre,1.8,0.9,59.0,32292.0,José Fonte,4-2-3-1,Eric Wattellier,Match Report,,16.0,6.0,18.2,1.0,0,0,2022,Lille
+1,2022-08-12,21:00,Ligue 1,Matchweek 2,Fri,Away,D,1.0,1.0,Nantes,2.2,1.3,69.0,,José Fonte,4-2-3-1,Bastien Dechepy,Match Report,,17.0,5.0,12.0,1.0,0,0,2022,Lille
+2,2022-08-21,20:45,Ligue 1,Matchweek 3,Sun,Home,L,1.0,7.0,Paris S-G,1.7,3.9,48.0,,José Fonte,4-2-3-1,Clément Turpin,Match Report,,15.0,8.0,16.6,0.0,0,0,2022,Lille
+3,2022-08-26,21:00,Ligue 1,Matchweek 4,Fri,Away,W,3.0,1.0,Ajaccio,1.3,1.0,57.0,,José Fonte,4-2-3-1,Thomas Léonard,Match Report,,6.0,4.0,17.5,0.0,0,1,2022,Lille
+4,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,L,1.0,2.0,Nice,0.9,1.6,63.0,,José Fonte,4-2-3-1,Jeremy Stinat,Match Report,,18.0,6.0,19.3,0.0,0,0,2022,Lille
+0,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Away,L,1.0,4.0,Lille,0.9,1.8,41.0,32292.0,Birama Touré,4-1-4-1,Eric Wattellier,Match Report,,10.0,2.0,15.5,0.0,0,0,2022,Auxerre
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Home,D,2.0,2.0,Angers,0.8,1.6,40.0,,Birama Touré,4-1-4-1,Ruddy Buquet,Match Report,,11.0,4.0,25.8,1.0,0,0,2022,Auxerre
+2,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Away,W,2.0,1.0,Montpellier,1.2,1.1,36.0,,Birama Touré,4-1-4-1,Mathieu Vernice,Match Report,,6.0,1.0,25.3,0.0,1,1,2022,Auxerre
+3,2022-08-27,17:00,Ligue 1,Matchweek 4,Sat,Home,W,1.0,0.0,Strasbourg,1.1,1.3,42.0,,Birama Touré,4-1-4-1,Johan Hamel,Match Report,,7.0,3.0,20.3,0.0,0,0,2022,Auxerre
+4,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Away,L,1.0,2.0,Lyon,0.5,2.8,38.0,,Birama Touré,4-1-4-1,Pierre Gaillouste,Match Report,,6.0,2.0,13.6,0.0,0,0,2022,Auxerre
+0,2022-07-31,21:00,Trophée des Champions,Trophée des Champions,Sun,Away,L,0.0,4.0,Paris S-G,,,38.0,28000.0,Alban Lafont,3-4-1-2,Orel Grinfeeld,Match Report,,8.0,2.0,,,0,0,2022,Nantes
+1,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Away,D,0.0,0.0,Angers,1.5,2.0,50.0,12000.0,Alban Lafont,3-4-1-2,Hakim Ben El Hadj Salem,Match Report,,15.0,4.0,14.8,0.0,0,0,2022,Nantes
+2,2022-08-12,21:00,Ligue 1,Matchweek 2,Fri,Home,D,1.0,1.0,Lille,1.3,2.2,31.0,,Alban Lafont,3-4-3,Bastien Dechepy,Match Report,,10.0,1.0,18.6,1.0,0,0,2022,Nantes
+3,2022-08-20,21:00,Ligue 1,Matchweek 3,Sat,Away,L,1.0,2.0,Marseille,1.9,1.1,45.0,,Alban Lafont,3-4-3,Jérémie Pignard,Match Report,,11.0,2.0,17.5,0.0,1,1,2022,Nantes
+4,2022-08-28,13:00,Ligue 1,Matchweek 4,Sun,Home,W,3.0,1.0,Toulouse,1.5,0.5,49.0,,Alban Lafont,4-1-4-1,Mathieu Vernice,Match Report,,16.0,7.0,13.8,0.0,0,0,2022,Nantes
+5,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Away,D,1.0,1.0,Strasbourg,0.7,0.3,53.0,,Alban Lafont,4-2-3-1,Clément Turpin,Match Report,,12.0,3.0,18.3,0.0,0,0,2022,Nantes
+0,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Away,L,2.0,3.0,Montpellier,1.8,1.1,47.0,12003.0,Florian Tardieu,3-4-3,Pierre Gaillouste,Match Report,,15.0,9.0,18.9,0.0,1,1,2022,Troyes
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Home,L,0.0,3.0,Toulouse,1.0,1.4,33.0,6000.0,Florian Tardieu,3-4-3,Marc Bollengier,Match Report,,12.0,1.0,14.0,0.0,0,0,2022,Troyes
+2,2022-08-19,21:00,Ligue 1,Matchweek 3,Fri,Away,L,1.0,4.0,Lyon,1.0,3.2,34.0,,Adil Rami,3-4-3,Eric Wattellier,Match Report,,3.0,0.0,20.7,0.0,1,1,2022,Troyes
+3,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Home,W,3.0,1.0,Angers,1.5,0.7,49.0,,Adil Rami,3-4-3,Stéphanie Frappart,Match Report,,25.0,10.0,21.4,1.0,0,0,2022,Troyes
+4,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Away,W,4.0,2.0,Monaco,2.5,1.5,48.0,,Florian Tardieu,3-4-3,Ruddy Buquet,Match Report,,17.0,10.0,18.2,0.0,1,1,2022,Troyes
+0,2022-08-06,21:00,Ligue 1,Matchweek 1,Sat,Home,L,0.0,5.0,Paris S-G,0.3,2.6,39.0,12203.0,Florent Ogier,4-2-3-1,Jeremy Stinat,Match Report,,7.0,1.0,22.4,1.0,0,0,2022,Clermont Foot
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Away,W,4.0,2.0,Reims,1.4,2.7,58.0,,Florent Ogier,4-2-3-1,Johan Hamel,Match Report,,9.0,4.0,20.1,0.0,1,1,2022,Clermont Foot
+2,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Home,W,1.0,0.0,Nice,0.6,1.4,47.0,,Florent Ogier,4-4-1-1,Thomas Léonard,Match Report,,7.0,2.0,15.2,0.0,0,0,2022,Clermont Foot
+3,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Away,L,1.0,2.0,Lorient,0.8,3.2,61.0,,Florent Ogier,4-2-3-1,Willy Delajod,Match Report,,9.0,2.0,15.4,0.0,0,0,2022,Clermont Foot
+4,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Away,L,0.0,1.0,Marseille,0.1,2.5,40.0,,Florent Ogier,3-4-3,Eric Wattellier,Match Report,,3.0,0.0,18.9,0.0,0,0,2022,Clermont Foot
+0,2022-08-07,13:00,Ligue 1,Matchweek 1,Sun,Home,D,1.0,1.0,Nice,1.2,1.0,45.0,20567.0,Branco van den Boomen,4-2-3-1,Johan Hamel,Match Report,,6.0,2.0,10.7,0.0,0,0,2022,Toulouse
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Away,W,3.0,0.0,Troyes,1.4,1.0,67.0,6000.0,Brecht Dejaegere,4-2-3-1,Marc Bollengier,Match Report,,10.0,4.0,18.5,1.0,0,0,2022,Toulouse
+2,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Home,D,2.0,2.0,Lorient,1.8,2.7,51.0,,Brecht Dejaegere,4-2-3-1,Gustavo Correia,Match Report,,16.0,8.0,12.4,1.0,0,0,2022,Toulouse
+3,2022-08-28,13:00,Ligue 1,Matchweek 4,Sun,Away,L,1.0,3.0,Nantes,0.5,1.5,51.0,,Brecht Dejaegere,4-2-3-1,Mathieu Vernice,Match Report,,9.0,3.0,14.5,0.0,0,0,2022,Toulouse
+4,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,L,0.0,3.0,Paris S-G,0.8,3.0,38.0,31700.0,Branco van den Boomen,3-4-3,Hakim Ben El Hadj Salem,Match Report,,14.0,7.0,21.2,1.0,0,0,2022,Toulouse
+0,2022-08-07,20:45,Ligue 1,Matchweek 1,Sun,Away,L,1.0,4.0,Marseille,1.1,2.2,45.0,62738.0,Yunis Abdelhamid,4-3-3,Jérôme Brisard,Match Report,,16.0,6.0,18.7,0.0,0,0,2022,Reims
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Home,L,2.0,4.0,Clermont Foot,2.7,1.4,42.0,,Yunis Abdelhamid,3-4-3,Johan Hamel,Match Report,,7.0,3.0,19.3,0.0,2,2,2022,Reims
+2,2022-08-21,13:00,Ligue 1,Matchweek 3,Sun,Away,D,1.0,1.0,Strasbourg,2.0,1.3,36.0,,Yunis Abdelhamid,3-4-1-2,Ruddy Buquet,Match Report,,12.0,6.0,13.7,1.0,0,0,2022,Reims
+3,2022-08-28,17:05,Ligue 1,Matchweek 4,Sun,Home,D,1.0,1.0,Lyon,0.5,0.9,26.0,,Yunis Abdelhamid,3-4-1-2,Jeremy Stinat,Match Report,,8.0,5.0,20.4,1.0,0,0,2022,Reims
+4,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Away,W,4.0,2.0,Angers,2.3,1.5,43.0,,Yunis Abdelhamid,3-4-1-2,Jérémie Pignard,Match Report,,10.0,4.0,21.3,1.0,1,1,2022,Reims
+0,2022-08-07,13:00,Ligue 1,Matchweek 1,Sun,Away,D,1.0,1.0,Toulouse,1.0,1.2,55.0,20567.0,Dante,4-3-3,Johan Hamel,Match Report,,11.0,4.0,15.2,1.0,0,0,2022,Nice
+1,2022-08-14,17:05,Ligue 1,Matchweek 2,Sun,Home,D,1.0,1.0,Strasbourg,1.5,1.2,54.0,,Dante,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,12.0,2.0,21.5,1.0,1,1,2022,Nice
+2,2022-08-18,20:00,Conf Lg,Play-off round,Thu,Away,L,0.0,1.0,il Maccabi Tel Aviv,,,,26871.0,Dante,4-2-3-1,Allard Lindhout,Match Report,Leg 1 of 2,,,,,0,0,2022,Nice
+3,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Away,L,0.0,1.0,Clermont Foot,1.4,0.6,53.0,,Dante,4-2-3-1,Thomas Léonard,Match Report,,13.0,4.0,15.0,0.0,0,0,2022,Nice
+4,2022-08-25,20:00,Conf Lg,Play-off round,Thu,Home,W,2.0,0.0,il Maccabi Tel Aviv,,,,,Dante,4-2-3-1,Sascha Stegemann,Match Report,Leg 2 of 2; Nice won; Required Extra Time,,,,,0,0,2022,Nice
+5,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Home,L,0.0,3.0,Marseille,0.8,1.1,49.0,,Dante,4-2-3-1,François Letexier,Match Report,,16.0,2.0,19.9,1.0,0,0,2022,Nice
+6,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Away,W,2.0,1.0,Lille,1.6,0.9,37.0,,Dante,3-5-2,Jeremy Stinat,Match Report,,1.0,0.0,51.0,0.0,2,2,2022,Nice
+0,2022-08-02,20:00,Champions Lg,Third qualifying round,Tue,Home,D,1.0,1.0,nl PSV Eindhoven,2.0,0.9,51.0,10802.0,Wissam Ben Yedder,4-4-2,Davide Massa,Match Report,Leg 1 of 2,15.0,2.0,14.4,0.0,0,0,2022,Monaco
+1,2022-08-06,17:00,Ligue 1,Matchweek 1,Sat,Away,W,2.0,1.0,Strasbourg,3.2,1.2,47.0,25359.0,Axel Disasi,4-2-3-1,François Letexier,Match Report,,25.0,11.0,15.4,1.0,0,0,2022,Monaco
+2,2022-08-09,20:30,Champions Lg,Third qualifying round,Tue,Away,L,2.0,3.0,nl PSV Eindhoven,2.2,1.3,53.0,35000.0,Wissam Ben Yedder,4-4-2,Jesús Gil,Match Report,Leg 2 of 2; PSV Eindhoven won; Required Extra Time,30.0,7.0,17.1,2.0,0,0,2022,Monaco
+3,2022-08-13,17:00,Ligue 1,Matchweek 2,Sat,Home,D,1.0,1.0,Rennes,2.3,2.0,35.0,,Wissam Ben Yedder,4-4-2,Jérémie Pignard,Match Report,,11.0,3.0,15.8,0.0,0,1,2022,Monaco
+4,2022-08-20,17:00,Ligue 1,Matchweek 3,Sat,Home,L,1.0,4.0,Lens,1.2,2.8,46.0,,Wissam Ben Yedder,4-2-3-1,Willy Delajod,Match Report,,12.0,5.0,20.2,0.0,0,0,2022,Monaco
+5,2022-08-28,20:45,Ligue 1,Matchweek 4,Sun,Away,D,1.0,1.0,Paris S-G,0.4,2.5,33.0,,Wissam Ben Yedder,3-4-1-2,Benoît Bastien,Match Report,,4.0,3.0,23.6,1.0,0,0,2022,Monaco
+6,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Home,L,2.0,4.0,Troyes,1.5,2.5,52.0,,Wissam Ben Yedder,3-4-1-2,Ruddy Buquet,Match Report,,8.0,6.0,8.6,0.0,0,0,2022,Monaco
+0,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Away,L,2.0,3.0,Lens,1.3,3.0,39.0,37015.0,Brendan Chardonnet,4-4-2,Thomas Léonard,Match Report,,5.0,3.0,18.5,0.0,1,1,2022,Brest
+1,2022-08-14,20:45,Ligue 1,Matchweek 2,Sun,Home,D,1.0,1.0,Marseille,2.1,0.6,48.0,,Brendan Chardonnet,4-3-3,Jeremy Stinat,Match Report,,17.0,5.0,16.5,0.0,0,0,2022,Brest
+2,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Away,W,3.0,1.0,Angers,1.8,0.8,50.0,,Brendan Chardonnet,4-3-3,Jérôme Brisard,Match Report,,13.0,7.0,10.4,0.0,0,0,2022,Brest
+3,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Home,L,0.0,7.0,Montpellier,0.3,2.6,52.0,,Brendan Chardonnet,4-3-3,Marc Bollengier,Match Report,,6.0,0.0,16.9,1.0,0,0,2022,Brest
+4,2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Away,L,1.0,3.0,Rennes,0.4,1.2,37.0,,Brendan Chardonnet,4-2-3-1,Benoît Millot,Match Report,,7.0,2.0,19.1,0.0,0,0,2022,Brest
+0,2022-08-06,17:00,Ligue 1,Matchweek 1,Sat,Home,L,1.0,2.0,Monaco,1.2,3.2,53.0,25359.0,Dimitri Liénard,3-4-1-2,François Letexier,Match Report,,11.0,7.0,15.9,1.0,0,0,2022,Strasbourg
+1,2022-08-14,17:05,Ligue 1,Matchweek 2,Sun,Away,D,1.0,1.0,Nice,1.2,1.5,46.0,,Dimitri Liénard,3-5-2,Hakim Ben El Hadj Salem,Match Report,,9.0,5.0,18.3,0.0,0,0,2022,Strasbourg
+2,2022-08-21,13:00,Ligue 1,Matchweek 3,Sun,Home,D,1.0,1.0,Reims,1.3,2.0,64.0,,Dimitri Liénard,3-5-2,Ruddy Buquet,Match Report,,12.0,2.0,15.0,1.0,0,0,2022,Strasbourg
+3,2022-08-27,17:00,Ligue 1,Matchweek 4,Sat,Away,L,0.0,1.0,Auxerre,1.3,1.1,58.0,,Dimitri Liénard,3-5-2,Johan Hamel,Match Report,,14.0,4.0,15.6,0.0,0,0,2022,Strasbourg
+4,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Home,D,1.0,1.0,Nantes,0.3,0.7,47.0,,Dimitri Liénard,3-5-2,Clément Turpin,Match Report,,5.0,2.0,21.6,1.0,0,0,2022,Strasbourg
+0,2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Home,D,0.0,0.0,Nantes,2.0,1.5,50.0,12000.0,Pierrick Capelle,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,16.0,6.0,15.8,0.0,0,0,2022,Angers
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Away,D,2.0,2.0,Auxerre,1.6,0.8,60.0,,Souleyman Doumbia,4-2-3-1,Ruddy Buquet,Match Report,,11.0,2.0,14.4,1.0,0,0,2022,Angers
+2,2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Home,L,1.0,3.0,Brest,0.8,1.8,50.0,,Pierrick Capelle,4-2-3-1,Jérôme Brisard,Match Report,,8.0,5.0,20.3,3.0,0,0,2022,Angers
+3,2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Away,L,1.0,3.0,Troyes,0.7,1.5,51.0,,Pierrick Capelle,3-5-2,Stéphanie Frappart,Match Report,,7.0,2.0,16.5,0.0,0,0,2022,Angers
+4,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Home,L,2.0,4.0,Reims,1.5,2.3,57.0,,Nabil Bentaleb,3-5-2,Jérémie Pignard,Match Report,,9.0,2.0,18.3,1.0,1,1,2022,Angers
+0,2022-08-05,21:00,Ligue 1,Matchweek 1,Fri,Away,L,1.0,2.0,Lyon,1.2,1.5,33.0,48516.0,Vincent Marchetti,4-4-2,Benoît Bastien,Match Report,,7.0,3.0,17.2,0.0,1,1,2022,Ajaccio
+1,2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Home,D,0.0,0.0,Lens,0.7,0.9,36.0,,Vincent Marchetti,4-4-2,Stéphanie Frappart,Match Report,,9.0,2.0,18.3,0.0,0,0,2022,Ajaccio
+2,2022-08-21,17:05,Ligue 1,Matchweek 3,Sun,Away,L,1.0,2.0,Rennes,1.4,1.2,44.0,,Vincent Marchetti,4-4-2,Hakim Ben El Hadj Salem,Match Report,,9.0,2.0,17.3,0.0,0,1,2022,Ajaccio
+3,2022-08-26,21:00,Ligue 1,Matchweek 4,Fri,Home,L,1.0,3.0,Lille,1.0,1.3,43.0,,Vincent Marchetti,4-4-2,Thomas Léonard,Match Report,,14.0,2.0,15.7,0.0,0,0,2022,Ajaccio
+4,2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Away,L,0.0,2.0,Montpellier,1.2,1.5,62.0,,Vincent Marchetti,4-4-2,Bastien Dechepy,Match Report,,15.0,0.0,15.2,1.0,0,0,2022,Ajaccio
