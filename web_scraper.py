@@ -8,9 +8,10 @@ from time import sleep
 
 class match_scraper:
 
-    def __init__(self,year1,year2,url):
+    def __init__(self,year1,year2,league,url):
             self.year1 = year1
             self.year2 = year2
+            self.league = league
             self.url = url
 
     def web_scraper(self):
@@ -49,12 +50,18 @@ class match_scraper:
                 team_data["Season"] = year
                 team_data["Team"] = team_name
                 all_matches.append(team_data)
-                print(team_name + " success")
+                print(team_name + " success " + f"{year}")
                 time.sleep(1)
 
         match_df = pd.concat(all_matches)
         match_df.columns = [c.lower() for c in match_df.columns]
-        match_df.to_csv("matches.csv")
+        match_df.to_csv(f"{self.league}_matches.csv")
 
-prem_matches = match_scraper(2022,2021,"https://fbref.com/en/comps/9/Premier-League-Stats")
+year1,year2 = 2022,2021
+prem_matches = match_scraper(year1,year2,'premier',"https://fbref.com/en/comps/9/Premier-League-Stats")
+ligue_1_matches = match_scraper(year1,year2,'ligue_1',"https://fbref.com/en/comps/13/Ligue-1-Stats")
+serie_a_matches = match_scraper(year1,year2,'serie_a',"https://fbref.com/en/comps/11/Serie-A-Stats")
+laliga_matches = match_scraper(year1,year2,'laliga',"https://fbref.com/en/comps/12/La-Liga-Stats")
+bundesliga_matches = match_scraper(year1,year2,'bundesliga',"https://fbref.com/en/comps/20/Bundesliga-Stats")
+
 prem_matches.web_scraper()
