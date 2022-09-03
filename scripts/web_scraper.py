@@ -55,7 +55,7 @@ class match_scraper:
 
         match_df = pd.concat(all_matches)
         match_df.columns = [c.lower() for c in match_df.columns]
-        match_df.to_csv(f"{self.league}_matches.csv")
+        match_df.to_csv(f"matches\{self.league}_matches.csv")
 
 year1,year2 = 2022,2021
 prem_matches = match_scraper(year1,year2,'premier',"https://fbref.com/en/comps/9/Premier-League-Stats")
@@ -65,7 +65,7 @@ laliga_matches = match_scraper(year1,year2,'laliga',"https://fbref.com/en/comps/
 bundesliga_matches = match_scraper(year1,year2,'bundesliga',"https://fbref.com/en/comps/20/Bundesliga-Stats")
 
 prem_matches.web_scraper()
-ligue_1_matches.web_scraper()
-serie_a_matches.web_scraper()
-laliga_matches.web_scraper()
-bundesliga_matches.web_scraper()
+#ligue_1_matches.web_scraper()
+#serie_a_matches.web_scraper()
+#laliga_matches.web_scraper()
+#bundesliga_matches.web_scraper()
