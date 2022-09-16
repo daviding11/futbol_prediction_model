@@ -47,6 +47,22 @@ class match_scraper:
                 except ValueError:
                     continue
                 time.sleep(randint(1, 4))
+                #Defense Data
+                links = [l.get("href") for l in soup.find_all('a')]
+                links = [l for l in links if l and 'all_comps/defense/' in l]
+                data = requests.get(f"https://fbref.com{links[0]}")
+                defense  = pd.read_html(data.text, match="Defensive Actions")[0]
+                defense.columns = defense.columns.map('_'.join)
+                defense.rename(columns={defense.columns[0]: 'Date'}, inplace=True)
+                #generic fields
+                try:
+                    team_data = team_data.merge(
+                        defense[["Date", "Pressures_Press", "Pressures_Succ", "Pressures_Def 3rd", "Pressures_Mid 3rd",
+                                 "Pressures_Att 3rd", "Blocks_Blocks", "Blocks_Sh", "Blocks_ShSv",
+                                 "Blocks_Pass"]], on="Date")
+                except ValueError:
+                    continue
+                time.sleep(randint(1, 4))
                 team_data["Season"] = year
                 team_data["Team"] = team_name
                 all_matches.append(team_data)
