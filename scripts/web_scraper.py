@@ -41,11 +41,12 @@ class match_scraper:
                 data = requests.get(f"https://fbref.com{links[0]}")
                 shooting = pd.read_html(data.text, match="Shooting")[0]
                 shooting.columns = shooting.columns.droplevel()
-
+                #Shooting Data
                 try:
                     team_data = matches.merge(shooting[["Date", "Sh", "SoT", "Dist", "FK", "PK", "PKatt"]], on="Date")
                 except ValueError:
                     continue
+                time.sleep(randint(1, 4))
                 team_data["Season"] = year
                 team_data["Team"] = team_name
                 all_matches.append(team_data)
